@@ -1,0 +1,14 @@
+.titulo{ 
+    color: rgb(5, 5, 5);
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    background-color: rgb(154, 143, 139);
+    text-align: center;
+}
+.box {
+    width: 100PX;
+    display: inline-block;
+    /* mudando a margem direita */
+    margin-right: 999px;
+    /* colocando borda na <div> */
+    border: 3px solid black;
+}
